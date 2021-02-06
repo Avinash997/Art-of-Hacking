@@ -7,5 +7,4 @@
 ### *Check My THM Profile here:*
 **https://tryhackme.com/p/4vkn3w**
 
-##### Cannot Share Flags for Machines and Challenges... :stuck_out_tongue_closed_eyes:
-##### But do reach out for help... :skull_and_crossbones:
+##### ~~Cannot Share Flags for Machines and Challenges~~ :stuck_out_tongue_closed_eyes: :skull_and_crossbones: 
