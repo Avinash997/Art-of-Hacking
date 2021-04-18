@@ -1,3 +1,8 @@
+## Privilege Escalation Scripts
+https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
+
+
+
 # HackTheBox & TryHackMe
 ## Profiles
 
