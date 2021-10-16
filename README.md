@@ -1,8 +1,3 @@
-## Privilege Escalation Scripts
-https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
-
-
-
 # HackTheBox & TryHackMe
 ## Profiles
 
@@ -13,3 +8,9 @@ https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
 **https://tryhackme.com/p/4vkn3w**
 
 ##### ~~Cannot Share Flags for Machines and Challenges~~ :stuck_out_tongue_closed_eyes: :skull_and_crossbones: 
+
+
+
+## Privilege Escalation Scripts
+https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
+
